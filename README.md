@@ -21,7 +21,9 @@ Python · C++ · TypeScript · Next.js · React · LightGBM · FastAPI · MySQL 
 ## Experience
 
 **Frontend Development Intern — Centvis**
+
 **QA Automation & Frontend Intern — vSplash Tech Labs**
+
 **Industry Project — Mahindra Research Valley** — client-facing stakeholder presentations, cross-functional delivery
 
 **Microsoft Azure Data Scientist Associate certified.**
